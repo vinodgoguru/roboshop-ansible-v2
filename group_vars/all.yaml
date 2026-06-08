@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.vijaansh.online.
+REDIS_HOST: redis.vijaansh.online
+MYSQL_HOST: mysql.vijaansh.online 
+RABBITMQ_HOST: rabbitmq.vijaansh.online 
+CATALOGUE_HOST: catalogue.vijaansh.online
+USER_HOST: user.vijaansh.online
+CART_HOST: cart.vijaansh.online
+SHIPPING_HOST: shipping.vijaansh.online
+PAYMENT_HOST: payment.vijaansh.online
